@@ -14,7 +14,7 @@ public class UC9PalindromeCheckerApp
             System.out.println(input + " is a palindrome");
         }
         else
-            git checkout -b feature/UC1{
+        {
             System.out.println(input + " is not a palindrome");
         }
     }
