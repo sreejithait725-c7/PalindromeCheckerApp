@@ -3,7 +3,7 @@ interface PalindromeStrategy
 {
     boolean checkPalindrome(String s);
 }
-class StackStrategy implements PalindromeStrategy
+class StackStrategy1 implements PalindromeStrategy1
 {
     public boolean checkPalindrome(String s)
     {
